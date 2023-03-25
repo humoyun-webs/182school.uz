@@ -1,0 +1,18 @@
+.iframe {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  iframe {
+    margin: 100px auto;
+    width: calc(100% - 10%);
+    border-radius: 10px;
+    //position: relative;
+    //left: 20px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+  }
+}

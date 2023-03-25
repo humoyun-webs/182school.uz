@@ -1,0 +1,102 @@
+[
+    {
+        "id":1,
+        "img":"https://www.collinsdictionary.com/images/full/school_309241295.jpg",
+        "name":"Tolqin",
+        "surname":"Tolqiinov",
+        "fathername":"Solqinbek ogli",
+        "class":"10 G",
+        "teachener_name":"Mamaqul",
+        "teachener_surname":"Mamaqulov"
+    },
+    {
+        "id":2,
+        "img":"https://www.collinsdictionary.com/images/full/school_309241295.jpg",
+        "name":"Tolqin",
+        "surname":"Tolqiinov",
+        "fathername":"Solqinbek ogli",
+        "class":"10 G",
+        "teachener_name":"Mamaqul",
+        "teachener_surname":"Mamaqulov"
+    },
+    {
+        "id":3,
+        "img":"https://www.collinsdictionary.com/images/full/school_309241295.jpg",
+        "name":"Tolqin",
+        "surname":"Tolqiinov",
+        "fathername":"Solqinbek ogli",
+        "class":"10 G",
+        "teachener_name":"Mamaqul",
+        "teachener_surname":"Mamaqulov"
+    },
+    {
+        "id":4,
+        "img":"https://www.collinsdictionary.com/images/full/school_309241295.jpg",
+        "name":"Tolqin",
+        "surname":"Tolqiinov",
+        "fathername":"Solqinbek ogli",
+        "class":"10 G",
+        "teachener_name":"Mamaqul",
+        "teachener_surname":"Mamaqulov"
+    },
+    {
+        "id":5,
+        "img":"https://www.collinsdictionary.com/images/full/school_309241295.jpg",
+        "name":"Tolqin",
+        "surname":"Tolqiinov",
+        "fathername":"Solqinbek ogli",
+        "class":"10 G",
+        "teachener_name":"Mamaqul",
+        "teachener_surname":"Mamaqulov"
+    },
+    {
+        "id":6,
+        "img":"https://www.collinsdictionary.com/images/full/school_309241295.jpg",
+        "name":"Tolqin",
+        "surname":"Tolqiinov",
+        "fathername":"Solqinbek ogli",
+        "class":"10 G",
+        "teachener_name":"Mamaqul",
+        "teachener_surname":"Mamaqulov"
+    },
+    {
+        "id":7,
+        "img":"https://www.collinsdictionary.com/images/full/school_309241295.jpg",
+        "name":"Tolqin",
+        "surname":"Tolqiinov",
+        "fathername":"Solqinbek ogli",
+        "class":"10 G",
+        "teachener_name":"Mamaqul",
+        "teachener_surname":"Mamaqulov"
+    },
+    {
+        "id":8,
+        "img":"https://www.collinsdictionary.com/images/full/school_309241295.jpg",
+        "name":"Tolqin",
+        "surname":"Tolqiinov",
+        "fathername":"Solqinbek ogli",
+        "class":"10 G",
+        "teachener_name":"Mamaqul",
+        "teachener_surname":"Mamaqulov"
+    },
+    {
+        "id":9,
+        "img":"https://www.collinsdictionary.com/images/full/school_309241295.jpg",
+        "name":"Tolqin",
+        "surname":"Tolqiinov",
+        "fathername":"Solqinbek ogli",
+        "class":"10 G",
+        "teachener_name":"Mamaqul",
+        "teachener_surname":"Mamaqulov"
+    },
+    {
+        "id":10,
+        "img":"https://www.collinsdictionary.com/images/full/school_309241295.jpg",
+        "name":"Tolqin",
+        "surname":"Tolqiinov",
+        "fathername":"Solqinbek ogli",
+        "class":"10 G",
+        "teachener_name":"Mamaqul",
+        "teachener_surname":"Mamaqulov"
+    }
+]

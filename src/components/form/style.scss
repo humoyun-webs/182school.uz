@@ -1,0 +1,226 @@
+.forms {
+  width: 100%;
+
+  .sarlavha2 {
+    text-align: center;
+  }
+
+  .container {
+    width: calc(100% - 10%);
+    margin: 100px auto;
+    background: #ffffff;
+    box-shadow: 0px 3px 16px rgba(52, 52, 52, 0.12);
+    border-radius: 10px;
+    padding: 30px;
+    form {
+      display: flex;
+      width: 80%;
+      justify-content: space-around;
+      margin: auto;
+      flex-wrap: wrap;
+      .inputs {
+        position: relative;
+        right: 50px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        .input {
+          p {
+            color: gray;
+            font-weight: 300;
+            padding-left: 5px;
+          }
+          input {
+            width: 392px;
+            min-width: 200px;
+            height: 44px;
+            border: 1.5px solid #dcdcdc;
+            border-radius: 8px;
+            padding: 10px;
+            color: #003a5a;
+            &:after {
+              border: 1.5px solid #003a5a;
+            }
+            &::placeholder {
+              font-size: 12px;
+              opacity: 0.5;
+            }
+          }
+        }
+      }
+
+      .textarea {
+        display: flex;
+        flex-direction: column;
+
+        margin-top: 10px;
+
+        button {
+          border: 2px solid #ec8d71;
+          color: white;
+          background-color: #f78664;
+          padding: 12px 50px;
+          font-size: 20px;
+          text-transform: uppercase;
+          border-radius: 8px;
+          -webkit-border-radius: 8px;
+          -moz-border-radius: 8px;
+          -ms-border-radius: 8px;
+          -o-border-radius: 8px;
+          margin-top: 10px;
+          cursor: pointer;
+          transition: 0.5s ease;
+          margin: 0 auto;
+          position: relative;
+          left: 50px;
+          -webkit-transition: 0.5s ease;
+          -moz-transition: 0.5s ease;
+          -ms-transition: 0.5s ease;
+          -o-transition: 0.5s ease;
+          &:hover {
+            color: #f78664;
+            background-color: white;
+          }
+        }
+
+        p {
+          color: gray;
+          padding-left: 5px;
+        }
+        #input {
+          width: 392px;
+          height: 157px;
+
+          padding: 10px;
+          margin-bottom: 30px;
+          border: 1.5px solid #dcdcdc;
+          border-radius: 8px;
+        }
+        #input::-webkit-scrollbar {
+          width: 5px;
+        }
+
+        #input::-webkit-scrollbar-thumb {
+          background: #666;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 1156px) {
+  .forms {
+    .container {
+      form {
+        max-width: 1000px;
+        margin: 0 auto;
+        .inputs {
+          left: 0px;
+        }
+      }
+      .sarlavha2 {
+        text-align: center;
+      }
+    }
+  }
+}
+@media only screen and (max-width: 1145px) {
+}
+@media only screen and (max-width: 999px) {
+}
+@media only screen and (max-width: 835px) {
+}
+@media only screen and (max-width: 768px) {
+}
+@media only screen and (max-width: 690px) {
+}
+@media only screen and (max-width: 610px) {
+}
+@media only screen and (max-width: 450px) {
+  .forms {
+    .container {
+      form {
+        .inputs {
+          .input {
+            input {
+              max-width: 350px;
+            }
+          }
+        }
+        .textarea {
+          textarea {
+            max-width: 350px;
+          }
+        }
+      }
+    }
+  }
+}
+@media only screen and (max-width: 404px) {
+  .forms {
+    .container {
+      form {
+        .inputs {
+          .input {
+            input {
+              max-width: 320px;
+            }
+          }
+        }
+        .textarea {
+          textarea {
+            max-width: 320px;
+          }
+        }
+      }
+    }
+  }
+}
+@media only screen and (max-width: 380px) {
+  .forms {
+    .container {
+      form {
+        .inputs {
+          .input {
+            input {
+              max-width: 300px;
+            }
+          }
+        }
+        .textarea {
+          button {
+            right: 200px;
+            margin: 0 auto;
+          }
+          textarea {
+            max-width: 300px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 360px) {
+}
+@media only screen and (max-width: 340px) {
+  .forms {
+    .container {
+      form {
+        .inputs {
+          .input {
+            input {
+              max-width: 280px;
+            }
+          }
+        }
+        .textarea {
+          textarea {
+            max-width: 280px;
+          }
+        }
+      }
+    }
+  }
+}

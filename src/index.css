@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+  background-color: #fff;
+  overflow-x: hidden;
+}
+
+.container {
+  width: calc(100% - 10%);
+  padding: 0 20px;
+  margin: 0 auto;
+}

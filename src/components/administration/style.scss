@@ -1,0 +1,364 @@
+.admins {
+  margin-top: 50px;
+}
+
+.admins {
+  .section_heading {
+    // font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 150.02%;
+    color: #003a5a;
+    display: block;
+    text-align: center;
+    margin-bottom: 80px;
+  }
+
+  .adminsWrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+    .admin {
+      width: 392px;
+      position: relative;
+      margin-bottom: 122px;
+
+      &:not(:nth-child(3)),
+      &:not(:nth-child(6)) {
+        margin-right: 24px;
+      }
+
+      .AdminPhoto {
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        border-radius: 5px;
+      }
+
+      .AdminSubs {
+        background-color: #ffffff;
+        padding: 10px;
+        width: calc(100% - 10%);
+        position: absolute;
+        left: 5%;
+        bottom: -10%;
+        border-radius: 5px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+        .AdminName {
+          // font-family: 'Inter';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 20px;
+          line-height: 150.02%;
+          color: #003a5a;
+          margin-bottom: 5px;
+          display: block;
+          text-align: center;
+        }
+        .AdminPosition {
+          // font-family: 'Inter';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 20px;
+          line-height: 150.02%;
+          color: #b5b5b5;
+          text-align: center;
+        }
+      }
+    }
+  }
+}
+@media only screen and (max-width: 970px) {
+  .admins {
+    .section_heading {
+      // font-family: 'Inter';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 34px;
+      line-height: 150.02%;
+      color: #003a5a;
+      display: block;
+      text-align: center;
+      margin-bottom: 80px;
+    }
+
+    .adminsWrapper {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-wrap: wrap;
+
+      .admin {
+        width: 250px;
+        position: relative;
+        margin-bottom: 122px;
+
+        &:not(:nth-child(3)),
+        &:not(:nth-child(6)) {
+          margin-right: 24px;
+        }
+
+        .AdminPhoto {
+          width: 250px;
+          height: 300px;
+          object-fit: cover;
+          border-radius: 14px;
+        }
+
+        .AdminSubs {
+          background-color: #ffffff;
+          padding: 5px;
+          width: 210px;
+          position: absolute;
+          left: 5%;
+          bottom: -10%;
+          border-radius: 14px;
+
+          .AdminName {
+            // font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 17px;
+            line-height: 150.02%;
+            color: #003a5a;
+            margin-bottom: 5px;
+            display: block;
+            text-align: center;
+          }
+
+          .AdminPosition {
+            // font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 17px;
+            line-height: 150.02%;
+            color: #b5b5b5;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+}
+@media only screen and (max-width: 670px) {
+  .admins {
+    .section_heading {
+      // font-family: 'Inter';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 34px;
+      line-height: 150.02%;
+      color: #003a5a;
+      display: block;
+      text-align: center;
+      margin-bottom: 80px;
+    }
+
+    .adminsWrapper {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-wrap: wrap;
+
+      .admin {
+        width: 210px;
+        position: relative;
+        margin-bottom: 80px;
+
+        &:not(:nth-child(3)),
+        &:not(:nth-child(6)) {
+          margin-right: 24px;
+        }
+
+        .AdminPhoto {
+          width: 210px;
+          height: 300px;
+          object-fit: cover;
+          border-radius: 14px;
+        }
+
+        .AdminSubs {
+          background-color: #ffffff;
+          padding: 5px;
+          width: 190px;
+          position: absolute;
+          left: 5%;
+          bottom: -10%;
+          border-radius: 14px;
+
+          .AdminName {
+            // font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 17px;
+            line-height: 150.02%;
+            color: #003a5a;
+            margin-bottom: 5px;
+            display: block;
+            text-align: center;
+          }
+
+          .AdminPosition {
+            // font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 17px;
+            line-height: 150.02%;
+            color: #b5b5b5;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 553px) {
+  .admins {
+    .section_heading {
+      // font-family: 'Inter';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 34px;
+      line-height: 150.02%;
+      color: #003a5a;
+      display: block;
+      text-align: center;
+      margin-bottom: 80px;
+    }
+
+    .adminsWrapper {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-wrap: wrap;
+
+      .admin {
+        width: 300px;
+        position: relative;
+        margin-bottom: 70px;
+
+        &:not(:nth-child(3)),
+        &:not(:nth-child(6)) {
+          margin-right: 24px;
+        }
+
+        .AdminPhoto {
+          width: 300px;
+          height: 300px;
+          object-fit: cover;
+          border-radius: 14px;
+        }
+
+        .AdminSubs {
+          background-color: #ffffff;
+          padding: 5px;
+          width: 270px;
+          position: absolute;
+          left: 5%;
+          bottom: -10%;
+          border-radius: 14px;
+
+          .AdminName {
+            // font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 17px;
+            line-height: 150.02%;
+            color: #003a5a;
+            margin-bottom: 5px;
+            display: block;
+            text-align: center;
+          }
+
+          .AdminPosition {
+            // font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 17px;
+            line-height: 150.02%;
+            color: #b5b5b5;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 410px) {
+  .admins {
+    .section_heading {
+      // font-family: 'Inter';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 34px;
+      line-height: 150.02%;
+      color: #003a5a;
+      display: block;
+      text-align: center;
+      margin-bottom: 80px;
+    }
+
+    .adminsWrapper {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-wrap: wrap;
+
+      .admin {
+        width: 230px;
+        position: relative;
+        margin-bottom: 70px;
+
+        &:not(:nth-child(3)),
+        &:not(:nth-child(6)) {
+          margin-right: 24px;
+        }
+
+        .AdminPhoto {
+          width: 250px;
+          height: 300px;
+          object-fit: cover;
+          border-radius: 14px;
+        }
+
+        .AdminSubs {
+          background-color: #ffffff;
+          padding: 5px;
+          width: 225px;
+          position: absolute;
+          left: 5%;
+          bottom: -10%;
+          border-radius: 14px;
+
+          .AdminName {
+            // font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 17px;
+            line-height: 150.02%;
+            color: #003a5a;
+            margin-bottom: 5px;
+            display: block;
+            text-align: center;
+          }
+
+          .AdminPosition {
+            // font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 17px;
+            line-height: 150.02%;
+            color: #b5b5b5;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+}

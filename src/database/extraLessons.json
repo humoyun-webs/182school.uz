@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "img": "/src/assets/images/photo2.jpg",
+        "name": "Математика"
+    },
+    {
+        "id": 2,
+        "img": "/src/assets/images/photo2.jpg",
+        "name": "Математика"
+    },
+    {
+        "id": 3,
+        "img": "/src/assets/images/photo2.jpg",
+        "name": "Математика"
+    },
+    {
+        "id": 4,
+        "img": "/src/assets/images/photo2.jpg",
+        "name": "Математика"
+    },
+    {
+        "id": 5,
+        "img": "/src/assets/images/photo2.jpg",
+        "name": "Математика"
+    },
+    {
+        "id": 6,
+        "img": "/src/assets/images/photo2.jpg",
+        "name": "Математика"
+    },
+    {
+        "id": 7,
+        "img": "/src/assets/images/photo2.jpg",
+        "name": "Математика"
+    },
+    {
+        "id": 8,
+        "img": "/src/assets/images/photo2.jpg",
+        "name": "Математика"
+    }
+]

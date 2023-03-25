@@ -1,0 +1,68 @@
+.contact__page {
+  background-color: #f8f8f8;
+}
+
+.contact__main {
+  margin-top: 100px;
+  padding: 50px 0;
+}
+
+.contact__main__heading {
+  padding: 23px 0;
+  text-align: center;
+  background-color: #fff;
+}
+
+.contact__info {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.contact__info__map h2 {
+  margin-bottom: 30px;
+}
+
+.contact__info__list {
+  display: flex;
+  flex-direction: column;
+  line-height: 50px;
+  list-style-type: none;
+}
+
+@media only screen and (max-width: 1050px) {
+  .contact__info {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    margin: 30px auto;
+  }
+
+  .contact__info__map {
+    margin-top: 20px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .contact__info__map iframe {
+    width: 300px;
+  }
+}
+
+@media only screen and (max-width: 490px) {
+  .contact__main__heading h2 {
+    font-size: 16px;
+  }
+
+  .contact__info {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .contact__info__map iframe {
+    width: 250px;
+    height: 350px;
+  }
+}

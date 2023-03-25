@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "TeacherPhoto": "https://www.pbs.org/newshour/app/uploads/2017/02/GettyImages-200193780-001-1024x768.jpg",
+    "TeacherName": "Hikmat Hikmatiy",
+    "Job": "O'qituvchi"
+  },
+  {
+    "id": 2,
+    "TeacherPhoto": "https://www.pbs.org/newshour/app/uploads/2017/02/GettyImages-200193780-001-1024x768.jpg",
+    "TeacherName": "Hikmat Hikmatiy",
+    "Job": "O'qituvchi"
+  },
+  {
+    "id": 3,
+    "TeacherPhoto": "https://www.pbs.org/newshour/app/uploads/2017/02/GettyImages-200193780-001-1024x768.jpg",
+    "TeacherName": "Hikmat Hikmatiy",
+    "Job": "O'qituvchi"
+  },
+  {
+    "id": 4,
+    "TeacherPhoto": "https://www.pbs.org/newshour/app/uploads/2017/02/GettyImages-200193780-001-1024x768.jpg",
+    "TeacherName": "Hikmat Hikmatiy",
+    "Job": "O'qituvchi"
+  },
+  {
+    "id": 5,
+    "TeacherPhoto": "https://www.pbs.org/newshour/app/uploads/2017/02/GettyImages-200193780-001-1024x768.jpg",
+    "TeacherName": "Hikmat Hikmatiy",
+    "Job": "O'qituvchi"
+  },
+  {
+    "id": 6,
+    "TeacherPhoto": "https://www.pbs.org/newshour/app/uploads/2017/02/GettyImages-200193780-001-1024x768.jpg",
+    "TeacherName": "Hikmat Hikmatiy",
+    "Job": "O'qituvchi"
+  }
+]
